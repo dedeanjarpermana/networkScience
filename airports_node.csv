@@ -1,0 +1,366 @@
+id,label
+10165,Adak Island
+10299,Anchorage
+10304,Aniak
+10754,Barrow
+10551,Bethel
+10926,Cordova
+14709,Deadhorse
+11336,Dillingham
+11630,Fairbanks
+11997,Gustavus
+12523,Juneau
+12819,Ketchikan
+10245,King Salmon
+10170,Kodiak
+13970,Kotzebue
+13873,Nome
+14256,Petersburg
+14828,Sitka
+12807,St. Mary's
+11445,Unalaska
+15841,Wrangell
+15991,Yakutat
+10599,Birmingham
+11308,Dothan
+12217,Huntsville
+13422,Mobile
+13277,Montgomery
+15919,Fayetteville
+11778,Fort Smith
+12992,Little Rock
+15401,Texarkana
+11695,Flagstaff
+11869,Grand Canyon
+14107,Phoenix
+15376,Tucson
+16218,Yuma
+10157,Arcata/Eureka
+10561,Bakersfield
+10800,Burbank
+11041,Carlsbad
+11002,Chico
+10910,Concord
+10930,Crescent City
+12363,El Centro
+11638,Fresno
+12436,Inyokern
+15383,Lake Tahoe
+12954,Long Beach
+12892,Los Angeles
+13388,Mammoth Lakes
+13424,Modesto
+13476,Monterey
+13796,Oakland
+13891,Ontario
+13988,Oxnard/Ventura
+14262,Palm Springs
+14162,Palmdale
+14487,Redding
+14893,Sacramento
+14679,San Diego
+14771,San Francisco
+14831,San Jose
+14698,San Luis Obispo
+14908,Santa Ana
+14689,Santa Barbara
+14905,Santa Maria
+14716,Stockton
+15601,Visalia
+10372,Aspen
+11109,Colorado Springs
+11292,Denver
+11413,Durango
+11503,Eagle
+11921,Grand Junction
+12012,Gunnison
+12094,Hayden
+13502,Montrose/Delta
+14288,Pueblo
+15177,Telluride
+10529,Hartford
+12244,New Haven
+11278,Washington
+12264,Washington
+12320,Wilmington
+15994,Yap
+11252,Daytona Beach
+11697,Fort Lauderdale
+14635,Fort Myers
+11953,Gainesville
+12451,Jacksonville
+11624,Key West
+13501,Marathon
+13360,Melbourne
+13303,Miami
+10329,Naples
+13204,Orlando
+14078,Panama City
+11481,Panama City
+14193,Pensacola
+14986,Sarasota/Bradenton
+14112,St. Petersburg
+15249,Tallahassee
+15304,Tampa
+15624,Valparaiso
+14027,West Palm Beach/Palm Beach
+10146,Albany
+10397,Atlanta
+10208,Augusta
+10731,Brunswick
+11150,Columbus
+13203,Macon
+14685,Savannah
+15607,Valdosta
+12402,Hilo
+12173,Honolulu
+13347,Hoolehua
+13830,Kahului
+12758,Kona
+13034,Lanai
+12982,Lihue
+11003,Cedar Rapids/Iowa City
+11423,Des Moines
+11274,Dubuque
+15048,Sioux City
+10268,Waterloo
+10713,Boise
+12280,Idaho Falls
+13127,Lewiston
+14113,Pocatello
+15041,Sun Valley/Hailey/Ketchum
+15389,Twin Falls
+10685,Bloomington/Normal
+11067,Champaign/Urbana
+13232,Chicago
+13930,Chicago
+13367,Moline
+14108,Peoria
+14512,Rockford
+14952,Springfield
+11612,Evansville
+11823,Fort Wayne
+12339,Indianapolis
+14696,South Bend
+11867,Garden City
+13290,Manhattan/Ft. Riley
+11726,Topeka
+12278,Wichita
+12945,Lexington
+14730,Louisville
+14006,Paducah
+10185,Alexandria
+10781,Baton Rouge
+12951,Lafayette
+12915,Lake Charles
+13377,Monroe
+13495,New Orleans
+14814,Shreveport
+10721,Boston
+13541,Martha's Vineyard
+10154,Nantucket
+13933,Worcester
+10821,Baltimore
+10581,Bangor
+14321,Portland
+11295,Detroit
+11433,Detroit
+11721,Flint
+11986,Grand Rapids
+11076,Hancock/Houghton
+10469,Kalamazoo
+12884,Lansing
+13459,Marquette
+13344,Muskegon
+14150,Pellston
+13184,Saginaw/Bay City/Midland
+15380,Traverse City
+10631,Bemidji
+11337,Duluth
+12343,International Falls
+13487,Minneapolis
+14633,Rochester
+10643,Branson
+11111,Columbia
+12511,Joplin
+13341,Kansas City
+13198,Kansas City
+14783,Springfield
+15016,St. Louis
+12007,Columbus
+11931,Greenville
+11973,Gulfport/Biloxi
+12448,Jackson/Vicksburg
+13241,Meridian
+15502,Tunica
+15374,Tupelo
+10620,Billings
+10849,Bozeman
+10779,Butte
+12003,Great Falls
+12156,Helena
+11648,Kalispell
+13486,Missoula
+15897,West Yellowstone
+10431,Asheville
+11057,Charlotte
+11641,Fayetteville
+11995,Greensboro/High Point
+12149,Hickory
+13795,Jacksonville/Camp Lejeune
+12390,Kinston
+11617,New Bern/Morehead/Beaufort
+14938,Pinehurst/Southern Pines
+14492,Raleigh/Durham
+12323,Wilmington
+10627,Bismarck/Mandan
+11637,Fargo
+11898,Grand Forks
+13304,Minot
+13433,Minot
+14490,Red River
+11980,Grand Island
+13029,Lincoln
+13871,Omaha
+10558,Scottsbluff
+13296,Manchester
+10158,Atlantic City
+11618,Newark
+15356,Trenton
+10140,Albuquerque
+11711,Farmington
+12177,Hobbs
+14588,Roswell
+14674,Santa Fe
+11525,Elko
+12889,Las Vegas
+14570,Reno
+10257,Albany
+10577,Binghamton
+10792,Buffalo
+11537,Elmira/Corning
+12391,Islip
+12397,Ithaca/Cortland
+12478,New York
+12953,New York
+15070,Newburgh/Poughkeepsie
+14576,Rochester
+15096,Syracuse
+15431,Utica/Rome
+10361,Watertown
+12197,White Plains
+10874,Akron
+11193,Cincinnati
+11042,Cleveland
+11066,Columbus
+11267,Dayton
+15295,Toledo
+12891,Lawton/Fort Sill
+13851,Oklahoma City
+15370,Tulsa
+14489,Bend/Redmond
+11603,Eugene
+13024,Klamath Falls
+13264,Medford
+13964,North Bend/Coos Bay
+14057,Portland
+14871,Salem
+10135,Allentown/Bethlehem/Easton
+11577,Erie
+13230,Harrisburg
+14100,Philadelphia
+14122,Pittsburgh
+10434,Scranton/Wilkes-Barre
+14711,State College
+14583,Koror
+10732,Aguadilla
+13176,Mayaguez
+14254,Ponce
+14843,San Juan
+14307,Providence
+10994,Charleston
+10868,Columbia
+11699,Florence
+11996,Greer
+12124,Hilton Head
+13577,Myrtle Beach
+10141,Aberdeen
+14120,Pierre
+14457,Rapid City
+11775,Sioux Falls
+15323,Bristol/Johnson City/Kingsport
+10980,Chattanooga
+15412,Knoxville
+13244,Memphis
+10693,Nashville
+12016,Guam
+14582,Rota
+14955,Saipan
+10136,Abilene
+10279,Amarillo
+10423,Austin
+16440,Austin
+10728,Beaumont/Port Arthur
+10747,Brownsville
+11049,College Station/Bryan
+11140,Corpus Christi
+11259,Dallas
+11298,Dallas/Fort Worth
+11415,Del Rio
+11540,El Paso
+12206,Harlingen/San Benito
+11495,Houston
+12266,Houston
+12191,Houston
+11982,Killeen
+12319,Killeen
+13061,Laredo
+11905,Longview
+12896,Lubbock
+13158,Midland/Odessa
+13256,Mission/McAllen/Edinburg
+14842,San Angelo
+14683,San Antonio
+15411,Tyler
+15569,Victoria
+10155,Waco
+14960,Wichita Falls
+10918,Cedar City
+13829,Ogden
+14314,Provo
+14869,Salt Lake City
+14794,St. George
+10990,Charlottesville
+13139,Lynchburg
+14098,Newport News/Williamsburg
+13931,Norfolk
+14524,Richmond
+14574,Roanoke
+15024,Charlotte Amalie
+15027,Christiansted
+10785,Burlington
+10666,Bellingham
+13546,Moses Lake
+14252,Pasco/Kennewick/Richland
+10559,Seattle
+14747,Seattle
+11884,Spokane
+16101,Yakima
+10408,Appleton
+11471,Eau Claire
+11977,Green Bay
+13076,La Crosse
+13485,Madison
+13342,Milwaukee
+11203,Mosinee
+14520,Rhinelander
+12223,Ashland
+11146,Charleston/Dunbar
+11027,Clarksburg/Fairmont
+13121,Lewisburg
+11122,Casper
+11233,Cheyenne
+11097,Cody
+11865,Gillette
+12441,Jackson
+14543,Rock Springs
